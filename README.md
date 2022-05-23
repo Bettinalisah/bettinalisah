@@ -2,12 +2,12 @@
 
 ## I'm an IT Technician and a Back-end Web Developer
 
-- 🔭 I’m currently working on Blog Web Application 
+- 🔭 I’m currently working on a Blog Web Application 
 - 🌱 I’m currently learning programming with python using Django Framework in VS
 - 👯 I’m looking to collaborate on other content creator
 - 🤔 2022 Goals: Contribute more on Open Source Project
 - 😄 Pronouns: she\her
-- ⚡ Fun fact: i am currently learning yogo lol
+- ⚡ Fun fact: i am currently learning yoga lol
 
 ### Connect with me:
 [<img align="left" alt="bettinalisa-shinavene | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
