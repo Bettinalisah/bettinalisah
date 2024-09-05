@@ -2,12 +2,10 @@
 
 ## I'm an IT Technician and a Back-end Web Developer
 
-- 🔭 I’m currently working on a Blog Web Application 
 - 🌱 I’m currently learning programming with python using Django Framework in VS
 - 👯 I’m looking to collaborate on other content creator
-- 🤔 2022 Goals: Contribute more on Open Source Project
 - 😄 Pronouns: she\her
-- ⚡ Fun fact: i am currently learning yoga lol
+
 
 
 <br />
