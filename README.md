@@ -3,10 +3,6 @@
 🎯 **About Me:**
 I'm **Back-end Web Developer** specializing in Python with Django. I love solving problems and building efficient, scalable web applications that make a difference. My journey in tech is fueled by curiosity and a constant desire to learn new things.
 
-🚀 **What I'm Currently Up To:**
-- 🌱 Exploring the depths of Python and the Django framework.
-- 💻 Building exciting projects in VS Code.
-- 🔧 Continuously improving my skills in web development, focusing on backend solutions.
 
   🔒 **Private Project:**
 - Currently working on an exciting **private project** involving network automation and IP management using **Python** and **Django**. While I can't share all the details just yet, it's been a great learning experience in integrating backend systems with real-world network infrastructure!
@@ -15,10 +11,6 @@ I'm **Back-end Web Developer** specializing in Python with Django. I love solvin
 🤝 **Looking To Collaborate On:**
 - **Open-source Django projects** or Python-based initiatives.
 - Content creation and other fun coding collaborations.
-
-🔗 **Let's Connect:**
-- **Pronouns:** She/Her
-- Open to networking, collaboration, and learning opportunities!
 
 ---
 
