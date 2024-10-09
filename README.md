@@ -22,6 +22,9 @@ I'm **Back-end Web Developer** specializing in Python with Django. I love solvin
 
 ---
 
+### 📊 **Most Used Languages:**
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=bettinalisah&layout=compact&theme=radical)
 ### 📈 **GitHub Stats:**
 
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=bettinalisah&show_icons=true&theme=radical)
