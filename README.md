@@ -8,7 +8,7 @@
 # Hi there, I'm BettinaLisah 👋
 
 🎯 **About Me:**
-I'm **Back-end Web Developer** specializing in Python with Django. I love solving problems and building efficient, scalable web applications that make a difference. My journey in tech is fueled by curiosity and a constant desire to learn new things.
+I'm a **Back-end Web Developer** specializing in Python with Django. I love solving problems and building efficient, scalable web applications that make a difference. My journey in tech is fueled by curiosity and a constant desire to learn new things.
 
 
   🔒 **Private Project:**
