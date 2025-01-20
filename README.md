@@ -22,7 +22,7 @@ I'm **Back-end Web Developer** specializing in Python with Django. I love solvin
 ---
 
 ### 🛠 **Languages and Tools I Work With:**
-- **Programming Languages:** Python, SQL, HTML/CSS
+- **Programming Languages:** Python, Javascript, SQL, HTML/CSS
 - **Frameworks:** Django, Flask
 - **Tools & Technologies:** Git, GitHub, PostgreSQL, SQLite, VS Code, Docker
 - **OS:** Linux, Windows
